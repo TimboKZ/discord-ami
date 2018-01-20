@@ -1,0 +1,15 @@
+aiohttp==1.0.5
+async-timeout==2.0.0
+chardet==3.0.4
+cycler==0.10.0
+decorator==4.2.1
+discord.py==0.16.12
+matplotlib==2.1.1
+multidict==4.0.0
+networkx==2.0
+numpy==1.14.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+six==1.11.0
+websockets==3.4
