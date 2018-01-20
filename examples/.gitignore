@@ -1,0 +1,8 @@
+# Actual bot config
+bot-config.json
+
+# Graph files
+*.gexf
+
+# Figures, plots, images
+*.png
